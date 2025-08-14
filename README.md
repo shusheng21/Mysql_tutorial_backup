@@ -1,12 +1,4 @@
-1、这是一个数据库教程备份22
-需要修改一下2
-修改3
-修改4
-修改5
-
-这是一个新分支，我在这里独立修改某些东西
-目前这个是newbranch分支下的一个新分支 new2
-
+这是一个数据库教程备份
 <img align="right" height="150" src="./img/mysql-logo.png">
 
 <!--idoc:ignore:start-->
